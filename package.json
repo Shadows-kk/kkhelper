@@ -1,6 +1,6 @@
 {
-  "name": "learn-cli",
-  "version": "1.0.1",
+  "name": "kkhelper",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -9,9 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "kkhelper",
+    "cli"
+  ],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/Shadows-kk/kkhelper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shadows-kk/kkhelper"
+  },
   "dependencies": {
     "commander": "^9.4.1",
     "download-git-repo": "^3.0.2",
